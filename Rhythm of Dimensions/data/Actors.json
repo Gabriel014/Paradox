@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Haroldo","nickname":"","note":"<Default Row: 1>","profile":""},
+{"id":1,"battlerName":"Shiro","characterIndex":0,"characterName":"Shiro","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Save","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shiro","nickname":"","note":"<Default Row: 1>","profile":""},
 {"id":2,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":3,"equips":[3,1,2,3,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Teresa","nickname":"","note":"<Default Row: 2>","profile":""},
 {"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[2,0,2,3,4],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucio","nickname":"","note":"<Default Row: 1>","profile":""},
 {"id":4,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marta","nickname":"","note":"<Default Row: 2>","profile":""}
