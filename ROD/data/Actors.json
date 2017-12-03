@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Shiro","characterIndex":0,"characterName":"Shiro","classId":1,"equips":[1,0,2,3,0],"faceIndex":0,"faceName":"normal","traits":[],"initialLevel":3,"maxLevel":99,"name":"Shiro","nickname":"","note":"<Default Row: 1>","profile":""},
-{"id":2,"battlerName":"Lisbeth","characterIndex":0,"characterName":"Lisbeth","classId":3,"equips":[3,1,2,3,0],"faceIndex":0,"faceName":"Lisbeth","traits":[],"initialLevel":5,"maxLevel":99,"name":"Lisbeth","nickname":"","note":"<Default Row: 2>","profile":""},
+{"id":2,"battlerName":"Lisbeth","characterIndex":0,"characterName":"Lisbeth","classId":2,"equips":[2,1,0,3,0],"faceIndex":0,"faceName":"Lisbeth","traits":[],"initialLevel":5,"maxLevel":99,"name":"Lisbeth","nickname":"","note":"<Default Row: 2>","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
