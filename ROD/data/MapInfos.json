@@ -2,13 +2,13 @@
 null,
 {"id":1,"expanded":true,"name":"Echoing Forest","order":2,"parentId":0,"scrollX":2092,"scrollY":877.3333333333334},
 {"id":2,"expanded":true,"name":"Mountain Cave: 1F","order":11,"parentId":0,"scrollX":1078.6666666666667,"scrollY":820},
-{"id":3,"expanded":true,"name":"Montanha Desconhecida","order":4,"parentId":0,"scrollX":1089.3333333333333,"scrollY":614.6666666666666},
+{"id":3,"expanded":true,"name":"Montanha Desconhecida","order":4,"parentId":0,"scrollX":809,"scrollY":499},
 {"id":4,"expanded":true,"name":"Montanha Desconhecida II","order":6,"parentId":3,"scrollX":1213.5,"scrollY":748.5},
-{"id":5,"expanded":false,"name":"Montanha Desconhecida I","order":5,"parentId":3,"scrollX":1213.5,"scrollY":1228.5},
+{"id":5,"expanded":false,"name":"Montanha Desconhecida I","order":5,"parentId":3,"scrollX":809,"scrollY":1229},
 {"id":6,"expanded":false,"name":"Montanha Desconhecida II-I","order":7,"parentId":4,"scrollX":980.4,"scrollY":547.8},
-{"id":7,"expanded":false,"name":"Echoing Forest","order":3,"parentId":1,"scrollX":1078.6666666666667,"scrollY":877.3333333333334},
+{"id":7,"expanded":false,"name":"Echoing Forest","order":3,"parentId":1,"scrollX":1879,"scrollY":453},
 {"id":8,"expanded":true,"name":"Corredor do Tempo","order":9,"parentId":0,"scrollX":1213.5,"scrollY":691.5},
-{"id":9,"expanded":true,"name":"Shiro's House","order":1,"parentId":0,"scrollX":1089.3333333333333,"scrollY":614.6666666666666},
+{"id":9,"expanded":true,"name":"Shiro's House","order":1,"parentId":0,"scrollX":817,"scrollY":461},
 {"id":10,"expanded":false,"name":"Montanha Desconhecida III","order":8,"parentId":3,"scrollX":1225.5,"scrollY":691.5},
 {"id":11,"expanded":true,"name":"prefabs","order":10,"parentId":0,"scrollX":891.2727272727273,"scrollY":502.90909090909093}
 ]
