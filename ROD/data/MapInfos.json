@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Echoing Forest","order":2,"parentId":0,"scrollX":811,"scrollY":1227},
-{"id":2,"expanded":true,"name":"Vanishing Mountain","order":6,"parentId":12,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"Vanishing Mountain","order":7,"parentId":2,"scrollX":816,"scrollY":987},
-{"id":4,"expanded":true,"name":"Vanishing Mountain","order":8,"parentId":3,"scrollX":653.6,"scrollY":368.8},
+{"id":1,"expanded":true,"name":"Echoing Forest","order":2,"parentId":0,"scrollX":3119.1111111111113,"scrollY":1265.7777777777778},
+{"id":2,"expanded":true,"name":"Vanishing Mountain","order":6,"parentId":12,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":3,"expanded":true,"name":"Vanishing Mountain","order":7,"parentId":2,"scrollX":973.1999999999999,"scrollY":886.8},
+{"id":4,"expanded":true,"name":"Vanishing Mountain","order":8,"parentId":3,"scrollX":982.8,"scrollY":553.1999999999999},
 null,
 null,
-{"id":7,"expanded":false,"name":"Echoing Forest","order":3,"parentId":1,"scrollX":1877,"scrollY":453},
+{"id":7,"expanded":false,"name":"Echoing Forest","order":3,"parentId":1,"scrollX":1945.7777777777778,"scrollY":860.4444444444445},
 null,
-{"id":9,"expanded":true,"name":"Shiro's House","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":true,"name":"Shiro's House","order":1,"parentId":0,"scrollX":720.8888888888889,"scrollY":454.22222222222223},
 null,
-{"id":11,"expanded":true,"name":"prefabs","order":4,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":12,"expanded":true,"name":"Vanishing Mountain","order":5,"parentId":0,"scrollX":811,"scrollY":499}
+{"id":11,"expanded":true,"name":"prefabs","order":4,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":12,"expanded":true,"name":"Vanishing Mountain","order":5,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
 ]
