@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Echoing Hills","order":3,"parentId":10,"scrollX":2612,"scrollY":508},
+{"id":1,"expanded":true,"name":"Echoing Hills","order":3,"parentId":10,"scrollX":990,"scrollY":1227},
 {"id":2,"expanded":true,"name":"Vanishing Mountain","order":6,"parentId":12,"scrollX":819,"scrollY":461},
 {"id":3,"expanded":true,"name":"Vanishing Mountain","order":7,"parentId":2,"scrollX":811,"scrollY":627},
 {"id":4,"expanded":true,"name":"Vanishing Mountain","order":8,"parentId":3,"scrollX":819,"scrollY":461},
@@ -19,5 +19,6 @@ null,
 {"id":17,"expanded":false,"name":"Church","order":18,"parentId":14,"scrollX":819,"scrollY":461},
 {"id":18,"expanded":false,"name":"Ban'thor Woods","order":16,"parentId":13,"scrollX":816,"scrollY":752},
 {"id":19,"expanded":false,"name":"Weapon Shop","order":20,"parentId":14,"scrollX":819,"scrollY":461},
-{"id":20,"expanded":false,"name":"Inn","order":19,"parentId":14,"scrollX":819,"scrollY":461}
+{"id":20,"expanded":false,"name":"Inn","order":19,"parentId":14,"scrollX":819,"scrollY":461},
+{"id":21,"expanded":false,"name":"PROLOGUE","order":21,"parentId":0,"scrollX":819,"scrollY":461}
 ]
