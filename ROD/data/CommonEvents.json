@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[0,22,1]},{"code":250,"indent":1,"parameters":[{"name":"Run","volume":90,"pitch":100,"pan":0}]},{"code":340,"indent":1,"parameters":[]},{"code":126,"indent":1,"parameters":[6,1,0,1]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["falando",0,0,2]},{"code":401,"indent":1,"parameters":["\\c[8]\\n[1]:\\c[0]"]},{"code":401,"indent":1,"parameters":["   I must fight this battle!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Escape Rope","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
